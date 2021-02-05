@@ -8,7 +8,7 @@ authors:
   - Long V. Vu
   - Faye H. Yu
   - Dan T. Nguyen
-  - Edward J. Benz Jr.
+  - Edward J. Benz Jr
 abstract: "The asymmetric cell division of stem or progenitor cells generates
   daughter cells with distinct fates that balance proliferation and
   differentiation.  Asymmetric segregation of Numb plays a crucial role in cell
@@ -40,5 +40,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: "2021-02-05T00:00:00Z"
+date: 2021-02-05T00:00:00Z
 ---
