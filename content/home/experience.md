@@ -22,24 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: English Language Instructor
+    company: AEON Corporation
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Sapporo, Japan
+    date_start: '2019-08-01'
+    date_end: '2020-09-01'
+    description:
+        Taught English to a diverse age group of students, ranging from preschool to senior citizens.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Benz Lab Research Technician
+    company: Dana Farber Cancer Institute
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Boston, MA
+    date_start: '2017-07-01'
+    date_end: '2019-06-01'
+    description:
+        Oversaw two personal, independent research projects studying alternative splicing of cancer-related proteins under the direction of Drs. Edward J. Benz and Shu-Ching Huang.
+
+  - title: Business Development Associate
+    company: BioEnterprise
+    company_url: ''
+    location: Cleveland, OH
+    date_start: '2016-06-01'
+    date_end: '2016-08-01'
+    description:
+        Assisted senior executives on key projects for accelerating growth of local early stage biotech startups.
+
+  - title: Williamson Lab Research Assistant
+    company: Amherst College
+    company_url: ''
+    location: Amherst, MA
+    date_start: '2015-09-01'
+    date_end: '2017-05-01'
+    description:
+        Contributed to Dr. Patrick Williamson’s research in determining a model for the substrate path through P4 ATPases, which became the topic of my senior honors thesis.
 ---
