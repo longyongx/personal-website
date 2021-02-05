@@ -34,7 +34,7 @@ abstract: "The asymmetric cell division of stem or progenitor cells generates
   decreases the late erythroblast population.  Together, our results identify a
   critical role for 4.1R in regulating the asymmetric segregation of Numb, which
   plays an important role in erythropoiesis.  "
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
