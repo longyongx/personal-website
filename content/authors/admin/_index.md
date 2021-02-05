@@ -6,15 +6,16 @@ title: Long Vu
 superuser: true
 
 # Role/position/tagline
-role: MS in Biostatistics - Health Analytics Graduate Student
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: MS in Biostatistics - Health Care Analytics
 - name: Case Western Reserve University
   url: https://www.case.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -25,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Biostatistics - Health Analytics
+  - course: MS in Biostatistics - Health Care Analytics
     institution: Case Western Reserve University
     year: exp. 8/2021
-  - course: BA in Biology
+  - course: BA in Biology, cumme laude
     institution: Amherst College
     year: 2017
 
@@ -69,7 +70,7 @@ highlight_name: false
 
 I was born and raised in Cleveland, OH before moving to Massachusetts for my undergraduate degree at Amherst College. Afterwards, I spent two years in the Benz Lab at the Dana-Farber Cancer Institute in Boston, MA studying alternative splicing pathways. For a change of pace, I moved to Sapporo, Japan where I then taught English for a year.
 
-Currently, I have returned stateside to pursue my MS in biostatistics, with a concentration in health analytics at Case Western Reserve University.
+Currently, I have returned stateside to pursue my MS in biostatistics, with a concentration in health care analytics at Case Western Reserve University.
 
 I’m interested in studying and learning more about marginalized and underserved populations in healthcare. Particularly, I want to look at income disparities, healthcare access, and education.
 
