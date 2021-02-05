@@ -6,7 +6,7 @@ title: Long Vu
 superuser: true
 
 # Role/position/tagline
-role: MS in Biostatistics - Health Analytics Student
+role: MS in Biostatistics - Health Analytics Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,15 +19,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Social Determinants of Health
-- Computational Linguistics
-- Information Retrieval
+- Molecular Biology
+- Biotechnology
 
 # Education to show in About widget
 education:
   courses:
   - course: MS in Biostatistics - Health Analytics
     institution: Case Western Reserve University
-    year: 2021
+    year: exp. 8/2021
   - course: BA in Biology
     institution: Amherst College
     year: 2017
@@ -40,18 +40,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/longyongx
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/long-vu17
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,8 +67,11 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born and raised in Cleveland, OH before moving to Massachusetts for my undergraduate degree at Amherst College. Afterwards, I spent two years in the Benz Lab at the Dana-Farber Cancer Institute in Boston, MA studying alternative splicing pathways. For a change of pace, I moved to Sapporo, Japan where I then taught English for a year.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I have returned stateside to pursue my MS in biostatistics, with a concentration in health analytics at Case Western Reserve University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I’m interested in studying and learning more about marginalized and underserved populations in healthcare. Particularly, I want to look at income disparities, healthcare access, and education.
+
+Pre-COVID era, I was an avid fan of travelling globally and visiting other countries. Nowadays, I find myself in the kitchen trying out all sorts of new recipes.
+
