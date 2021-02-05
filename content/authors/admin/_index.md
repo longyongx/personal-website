@@ -29,7 +29,7 @@ education:
   - course: MS in Biostatistics - Health Care Analytics
     institution: Case Western Reserve University
     year: exp. 8/2021
-  - course: BA in Biology, cumme laude
+  - course: BA in Biology, cum laude
     institution: Amherst College
     year: 2017
 
