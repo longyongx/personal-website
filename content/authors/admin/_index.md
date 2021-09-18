@@ -1,6 +1,6 @@
 ---
 title: Long Vu
-role: Graduate Student
+role: Health Care Data Analyst/Biostatistician
 bio: ""
 interests:
   - Social Determinants of Health
@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/long-vu17
 organizations:
-  - name: MS in Biostatistics - Health Care Analytics
+  - name: MS in Biostatistics
   - name: Case Western Reserve University
     url: https://www.case.edu
 education:
