@@ -1,6 +1,6 @@
 ---
-title: Protein 4.1R regulates asymmetric segregation of Numb during terminal
-  erythroid maturation
+title: Multifunctional protein 4.1R regulates the asymmetric segregation of Numb
+  during terminal erythroid maturation
 publication_types:
   - "2"
 authors:
@@ -11,6 +11,7 @@ authors:
   - Edward J. Benz Jr
 doi: 10.1016/j.jbc.2021.101051
 publication: Journal of Biological Chemistry
+publication_short: JBC
 abstract: The asymmetric cell division of stem or progenitor cells generates
   daughter cells with distinct fates that balance proliferation and
   differentiation. Asymmetric segregation of Notch signaling regulatory protein
