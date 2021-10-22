@@ -15,7 +15,7 @@ authors:
   - Edward J. Benz Jr
 doi: https://doi.org/10.1074/jbc.RA119.009650
 publication: Journal of Biological Chemistry
-publication_short: JCB
+publication_short: JBC
 abstract: Epithelial adherens junctions (AJs) and tight junctions (TJs) undergo
   disassembly and reassembly during morphogenesis and pathological states. The
   membrane–cytoskeleton interface plays a crucial role in junctional
@@ -46,5 +46,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2019-11-20T00:00:00Z
+date: 2019-11-20T00:00:00.000Z
 ---
